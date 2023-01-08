@@ -1,0 +1,2 @@
+Starting with git for first time.
+Using Git Bash and its so cool.
