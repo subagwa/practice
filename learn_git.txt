@@ -1,8 +1,2 @@
 Starting with git for first time.
 Using Git Bash and its so cool.
-
-
-Wanted to check the git diff command
-
-
-Another try for git diff command
