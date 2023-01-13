@@ -1,0 +1,3 @@
+This feature is gadbad
+
+I wanted to reset my branch without informing others
