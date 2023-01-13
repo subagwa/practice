@@ -1,3 +1,1 @@
-This feature is gadbad
-
-I wanted to reset my branch without informing others
+just check with previous commits
